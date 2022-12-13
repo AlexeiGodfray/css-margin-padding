@@ -1,1 +1,2 @@
 # css-margin-padding
+This is basic practice for the box model. Understanding margins, border, padding, and content. Learning how to place elements in a web page. Also understanding basics of block, and inline elements. 
